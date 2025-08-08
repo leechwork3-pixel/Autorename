@@ -1,0 +1,11 @@
+pyrogram
+motor
+dnspython
+hachoir
+Pillow
+aiohttp
+pytz
+humanize
+pyromod
+ffmpeg-python
+flask
